@@ -1,0 +1,16 @@
+{
+    "host": "ftp.mediqboy.com",
+    "username": "ftp.company@mediqboy.com",
+    "password": "789123oc",
+    "remotePath": "/",
+    "protocol": "ftp",
+    "port": 21,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

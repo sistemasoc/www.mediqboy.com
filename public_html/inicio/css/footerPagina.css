@@ -1,0 +1,118 @@
+.btn-whatsapp {
+       display:block;
+       width:70px;
+       height:70px;
+       color:#fff;
+       position: fixed;
+       
+       bottom:20px;
+       border-radius:50%;
+       line-height:80px;
+       text-align:center;
+       z-index:999;
+       cursor: pointer;
+
+   -webkit-animation-name: AnimInfinita;
+   -webkit-animation-duration: 3s;
+   -webkit-animation-iteration-count:infinite;   
+   -webkit-animation-direction:alternate;
+   -webkit-animation-timing-function:linear;
+   -webkit-animation-delay:1s;
+    animation-name: AnimInfinita;
+    animation-duration: 3s;
+    animation-iteration-count:infinite; 
+    animation-direction:alternate;
+    animation-timing-function:linear;
+    animation-delay:1s;
+}
+
+    @-webkit-keyframes AnimInfinita{
+        0%{
+            left:0px;
+            border-radius:0px;
+        }
+        50%{
+          
+            transform:rotate(0deg);
+        }
+        100%{
+            left:80px;
+            border-radius:40px;
+            
+            transform:rotate(360deg);
+        }
+    }
+
+
+    @keyframes AnimInfinita{
+        0%{
+            left:0px;
+            border-radius:0px;
+        }
+        50%{
+            
+            transform:rotate(0deg);
+        }
+        100%{
+            left:80px;
+            border-radius:40px;
+            
+            transform:rotate(360deg);
+        }
+    }
+
+
+.btn-carrito
+{
+       display:inline;
+       width:70px;
+       height:70px;
+       color:#000;
+       position:relative;
+       font-size: 25px;
+       bottom:0px;
+       border-radius:50%;
+       line-height:80px;
+       text-align:center;
+       z-index:999;
+       cursor: pointer;
+
+
+    
+  
+}
+
+    @-webkit-keyframes AnimInfinita{
+        0%{
+            left:0px;
+            border-radius:0px;
+        }
+        50%{
+          
+            transform:rotate(0deg);
+        }
+        100%{
+            left:80px;
+            border-radius:40px;
+            
+            transform:rotate(360deg);
+        }
+    }
+
+
+    @keyframes AnimInfinita{
+        0%{
+            left:0px;
+            border-radius:0px;
+        }
+        50%{
+            
+            transform:rotate(0deg);
+        }
+        100%{
+            left:80px;
+            border-radius:40px;
+            
+            transform:rotate(360deg);
+        }
+    }

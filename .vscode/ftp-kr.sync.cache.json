@@ -1,0 +1,155 @@
+{
+  "ftp://ftp.mediqboy.com:21@ftp.company@mediqboy.com": {
+    ".RevClean": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bash_logout": {
+      "type": "-",
+      "size": 18,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bash_profile": {
+      "type": "-",
+      "size": 176,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".bashrc": {
+      "type": "-",
+      "size": 124,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".contactemail": {
+      "type": "-",
+      "size": 24,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".cpanel": {},
+    ".cpanel-logs": {
+      "type": "-",
+      "size": 42,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".cphorde": {},
+    ".emacs": {
+      "type": "-",
+      "size": 500,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".fantasticodata": {},
+    ".fontconfig": {},
+    ".ftpquota": {
+      "type": "-",
+      "size": 16,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".gemrc": {
+      "type": "-",
+      "size": 126,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".gnupg": {},
+    ".htaccess": {
+      "type": "-",
+      "size": 325,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".htaccess-1582731072": {
+      "type": "-",
+      "size": 274,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".htpasswds": {},
+    ".lastlogin": {
+      "type": "-",
+      "size": 404,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".odbc.ini": {
+      "type": "-",
+      "size": 0,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".pearrc": {
+      "type": "-",
+      "size": 616,
+      "lmtime": 0,
+      "modified": false
+    },
+    ".softaculous": {},
+    ".sqmailattach": {},
+    ".sqmaildata": {},
+    ".subaccounts": {},
+    ".trash": {},
+    "access-logs": {
+      "type": "l",
+      "size": 34,
+      "lmtime": 0,
+      "modified": false
+    },
+    "backup-3.30.2020_14-22-30_mediqboy.tar.gz": {
+      "type": "-",
+      "size": 506352456,
+      "lmtime": 0,
+      "modified": false
+    },
+    "backup-3.30.2020_14-30-22_mediqboy.tar.gz": {
+      "type": "-",
+      "size": 506356454,
+      "lmtime": 0,
+      "modified": false
+    },
+    "bin": {},
+    "cache": {},
+    "etc": {},
+    "logs": {},
+    "mail": {},
+    "mediqboy.com": {},
+    "perl5": {},
+    "php": {},
+    "php.ini": {
+      "type": "-",
+      "size": 39256,
+      "lmtime": 0,
+      "modified": false
+    },
+    "php.ini-1582731072": {
+      "type": "-",
+      "size": 39091,
+      "lmtime": 0,
+      "modified": false
+    },
+    "public_ftp": {},
+    "public_html": {},
+    "robots.txt": {
+      "type": "-",
+      "size": 333,
+      "lmtime": 0,
+      "modified": false
+    },
+    "ruby": {},
+    "ssl": {},
+    "tmp": {},
+    "www": {
+      "type": "l",
+      "size": 11,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}

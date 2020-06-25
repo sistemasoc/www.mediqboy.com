@@ -1,0 +1,40 @@
+IndexIgnore .htaccess */.??* *~ *# */HEADER* */README* */_vti*
+<Limit GET POST>
+order deny,allow
+deny from all
+allow from all
+</Limit>
+<Limit PUT DELETE>
+order deny,allow
+deny from all
+</Limit>
+AuthName mediqboy.com
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# Use PHP53 as default
+AddHandler application/x-httpd-php53 .php
+<IfModule mod_suphp.c>
+    suPHP_ConfigPath /opt/php53/lib
+</IfModule>
+AddHandler extension-php_interbase.dll php_interbase.dll
+AddHandler application/x-httpd-php53 php_interbase.dll
+AddHandler application/x-httpd-php53 php_pdo_firebird.dll
+AddHandler application/x-httpd-php53 .dll
+AddHandler server-parsed .dll
+AddHandler cgi-script .dll

@@ -1,0 +1,516 @@
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(librerias/libreriasEstilos.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(librerias/libreriasEstilos.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'librerias/libreriasEstilos.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/barraSuperior.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/movilMenuInicio.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:09:22 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/footer.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(librerias/libreriasEstilos.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(librerias/libreriasEstilos.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'librerias/libreriasEstilos.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 10
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/barraSuperior.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/movilMenuInicio.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:09:35 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/footer.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/movilMenuInicio.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:10:30 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/footer.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[11-Feb-2020 17:11:41 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:41 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:41 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:43 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:43 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:43 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:44 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:44 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:44 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:47 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:47 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:11:47 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:12:36 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:12:36 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:12:36 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:13:18 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:13:18 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:13:18 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:27:26 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:27:26 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[11-Feb-2020 17:27:26 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 07:52:10 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 07:52:10 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 07:52:10 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/barraSuperior.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/movilMenuInicio.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 07:53:25 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/footer.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/barraSuperior.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/barraSuperior.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 31
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/movilMenuInicio.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/movilMenuInicio.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 163
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include(vistas/footer.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 07:54:08 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/footer.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 827
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include(../vistas/vistaHeader.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 34
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include(../vistas/vistaHeader.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/index.php on line 34
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/vistaHeader.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/index.php on line 34
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:01:57 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:02:50 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:02:50 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:02:50 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:03:26 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:03:26 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:03:26 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:24 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:24 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:24 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:28 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:28 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:05:28 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:13 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:13 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:13 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:49 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:49 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:39:49 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:41:15 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:41:15 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:41:15 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:42:13 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:42:13 America/Chicago] PHP Warning:  include(vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:42:13 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/footer.php on line 176
+[12-Feb-2020 08:46:07 America/Chicago] PHP Warning:  include(../../vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:46:07 America/Chicago] PHP Warning:  include(../../vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:46:07 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:46:52 America/Chicago] PHP Warning:  include(../../vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:46:52 America/Chicago] PHP Warning:  include(../../vistas/modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:46:52 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../../vistas/modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:47:57 America/Chicago] PHP Warning:  include(modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:47:57 America/Chicago] PHP Warning:  include(modalWhatssap.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 08:47:57 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'modalWhatssap.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 174
+[12-Feb-2020 14:12:03 America/Chicago] PHP Warning:  include(../vistas/modalWhatssap1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 175
+[12-Feb-2020 14:12:03 America/Chicago] PHP Warning:  include(../vistas/modalWhatssap1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 175
+[12-Feb-2020 14:12:03 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/modalWhatssap1.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaFooter.php on line 175
+[13-Feb-2020 12:42:09 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 10
+[13-Feb-2020 12:42:09 America/Chicago] PHP Fatal error:  Call to undefined method mysqli::mysqli_connect_errno() in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 13
+[13-Feb-2020 12:49:41 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 8
+[13-Feb-2020 12:55:31 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 8
+[13-Feb-2020 12:55:37 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 8
+[13-Feb-2020 12:56:07 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/mediqboy/public_html/inicio/shop/vistas/buscar.php on line 8
+[13-Feb-2020 13:31:09 America/Chicago] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home2/mediqboy/public_html/inicio/shop/vistas/Producto.php on line 2
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include(../vistas/buscar.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include(../vistas/buscar.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/buscar.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include(../vistas/vistaContenidoP.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include(../vistas/vistaContenidoP.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[17-Feb-2020 10:02:16 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/vistaContenidoP.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include(../vistas/buscar.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include(../vistas/buscar.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/buscar.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 71
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include(../vistas/vistaContenidoP.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include(../vistas/vistaContenidoP.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[17-Feb-2020 10:02:20 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../vistas/vistaContenidoP.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/shop/vistas/vistaRegistro.php on line 73
+[18-Feb-2020 17:51:36 America/Chicago] PHP Parse error:  syntax error, unexpected $end in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 66
+[25-Feb-2020 16:40:24 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaContenidoP.php on line 7
+[25-Feb-2020 16:41:16 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaContenidoP.php on line 7
+[25-Feb-2020 16:46:27 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 16:46:31 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 16:47:36 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 16:47:40 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 16:51:43 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 17:02:10 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 17:40:29 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 17:40:53 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 18:33:46 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 18:34:03 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 21:24:56 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[25-Feb-2020 21:25:49 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:36:41 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:38:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:39:31 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:42:45 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:55:30 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:55:34 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:55:46 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:55:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:57:08 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 07:57:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:01:07 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:01:09 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:14:59 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:16:58 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:22:28 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:23:07 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:23:54 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:23:55 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:23:56 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:25:02 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:25:03 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:28:03 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:37:44 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:37:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:54:19 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 08:54:36 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 09:05:12 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 09:20:01 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 09:20:04 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[26-Feb-2020 09:36:15 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:46 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:47 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:48 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:48 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:36:48 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:07 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:08 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:08 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:09 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:10 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:12 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:13 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:16 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:16 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:17 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:58 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:37:59 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 09:38:00 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 10:01:40 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/prueba.php on line 5
+[26-Feb-2020 10:52:42 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 10
+[06-Mar-2020 07:54:04 America/Chicago] PHP Warning:  odbc_connect() [<a href='function.odbc-connect'>function.odbc-connect</a>]: SQL error: [unixODBC][Driver Manager]Data source name not found, and no default driver specified, SQL state IM002 in SQLConnect in /home2/mediqboy/public_html/inicio/shop/controladores/conexion.php on line 246
+[06-Mar-2020 07:54:13 America/Chicago] PHP Warning:  odbc_connect() [<a href='function.odbc-connect'>function.odbc-connect</a>]: SQL error: [unixODBC][Driver Manager]Data source name not found, and no default driver specified, SQL state IM002 in SQLConnect in /home2/mediqboy/public_html/inicio/shop/controladores/conexion.php on line 246
+[06-Mar-2020 07:57:21 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaContenidoP.php on line 7
+[06-Mar-2020 07:57:37 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php on line 49
+[06-Mar-2020 07:59:30 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php on line 13
+[06-Mar-2020 09:48:26 America/Chicago] PHP Fatal error:  Class 'modeloProductos' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaContenidoP.php on line 7
+[11-Mar-2020 12:27:26 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:35:04 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:35:06 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:35:07 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:35:08 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:35:08 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:48:01 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 12
+[11-Mar-2020 12:58:44 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/mediqboy/public_html/inicio/shop/index.php on line 5
+[12-Mar-2020 11:17:13 America/Chicago] PHP Parse error:  syntax error, unexpected T_ENDIF in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 99
+[12-Mar-2020 16:45:32 America/Chicago] PHP Warning:  include(modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:45:32 America/Chicago] PHP Warning:  include(modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:45:32 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'modalClienteLogin.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:19 America/Chicago] PHP Warning:  include(shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:19 America/Chicago] PHP Warning:  include(shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:19 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'shop/modalClienteLogin.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:21 America/Chicago] PHP Warning:  include(shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:21 America/Chicago] PHP Warning:  include(shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:21 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'shop/modalClienteLogin.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:43 America/Chicago] PHP Warning:  include(../shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:43 America/Chicago] PHP Warning:  include(../shop/modalClienteLogin.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[12-Mar-2020 16:46:43 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../shop/modalClienteLogin.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 45
+[13-Mar-2020 15:11:09 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/mediqboy/public_html/inicio/shop/vistas/modalClienteLogin.php on line 16
+[13-Mar-2020 15:11:37 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/mediqboy/public_html/inicio/shop/vistas/modalClienteLogin.php on line 16
+[13-Mar-2020 16:42:48 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home2/mediqboy/public_html/inicio/vistas/barraSuperior.php on line 49
+[18-Mar-2020 16:32:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 19
+[18-Mar-2020 16:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 19
+[19-Mar-2020 15:02:19 America/Chicago] PHP Warning:  Missing argument 1 for modeloProductos::mdlCambiarEstado(), called in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 3 and defined in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 20
+[19-Mar-2020 15:02:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:25
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(25): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado()
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 25
+[19-Mar-2020 15:05:46 America/Chicago] PHP Warning:  Missing argument 1 for modeloProductos::mdlCambiarEstado(), called in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 3 and defined in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 19
+[19-Mar-2020 15:05:46 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado()
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:06:44 America/Chicago] PHP Warning:  Missing argument 1 for modeloProductos::mdlCambiarEstado(), called in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 3 and defined in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 19
+[19-Mar-2020 15:06:44 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado()
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:07:33 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:08:38 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:09:49 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:10:16 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:13:35 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:13:39 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:21:40 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:25:08 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:29:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:29:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:29:31 America/Chicago] PHP Fatal error:  Class 'date' not found in /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php on line 13
+[19-Mar-2020 15:30:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:35:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:25
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(25): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 25
+[19-Mar-2020 15:35:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:25
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(25): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 25
+[19-Mar-2020 15:48:51 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:25
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(25): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 25
+[19-Mar-2020 15:49:34 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:50:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:55:51 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:56:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:56:34 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:57:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:59:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 15:59:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:03:45 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:05:11 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:05:43 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:05:58 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:06:02 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:07:41 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:08:19 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(3): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[19-Mar-2020 16:15:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:24
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(24): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(4): modeloProductos::mdlCambiarEstado(NULL)
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(128): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 24
+[16-May-2020 10:20:48 America/Chicago] PHP Warning:  include(php/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 7
+[16-May-2020 10:20:48 America/Chicago] PHP Warning:  include(php/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 7
+[16-May-2020 10:20:48 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/config.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 7
+[16-May-2020 10:55:21 America/Chicago] PHP Warning:  include(php/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 8
+[16-May-2020 10:55:21 America/Chicago] PHP Warning:  include(php/config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 8
+[16-May-2020 10:55:21 America/Chicago] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'php/config.php' for inclusion (include_path='.:/opt/php53/lib/php') in /home2/mediqboy/public_html/inicio/vistas/cabezote.php on line 8
+[29-May-2020 09:21:28 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND validez > 
+		        ORDER BY posicion ASC' at line 3' in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php:13
+Stack trace:
+#0 /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php(13): PDOStatement->execute()
+#1 /home2/mediqboy/public_html/inicio/shop/vistas/vistaSlider.php(7): modeloProductos::mdlListarBanner('2020-05-29')
+#2 /home2/mediqboy/public_html/inicio/shop/vistas/vistaPrincipalShop.php(3): include('/home2/mediqboy...')
+#3 /home2/mediqboy/public_html/inicio/shop/index.php(142): include('/home2/mediqboy...')
+#4 {main}
+  thrown in /home2/mediqboy/public_html/inicio/shop/modelos/productosModelo.php on line 13
